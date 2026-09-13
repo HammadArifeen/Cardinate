@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\u\\Cardice\\gameoff2021\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD93FEE-A507-00E8-A9CC-446B07E61F68}|Assembly-CSharp.csproj|c:\\u\\cardice\\gameoff2021\\assets\\leaderboards\\leaderboards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD93FEE-A507-00E8-A9CC-446B07E61F68}|Assembly-CSharp.csproj|solutionrelative:assets\\leaderboards\\leaderboards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD93FEE-A507-00E8-A9CC-446B07E61F68}|Assembly-CSharp.csproj|c:\\u\\cardice\\gameoff2021\\assets\\leaderboards\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD93FEE-A507-00E8-A9CC-446B07E61F68}|Assembly-CSharp.csproj|solutionrelative:assets\\leaderboards\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Leaderboards.cs",
+              "DocumentMoniker": "C:\\u\\Cardice\\gameoff2021\\Assets\\Leaderboards\\Leaderboards.cs",
+              "RelativeDocumentMoniker": "Assets\\Leaderboards\\Leaderboards.cs",
+              "ToolTip": "C:\\u\\Cardice\\gameoff2021\\Assets\\Leaderboards\\Leaderboards.cs",
+              "RelativeToolTip": "Assets\\Leaderboards\\Leaderboards.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:43:05.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\u\\Cardice\\gameoff2021\\Assets\\Leaderboards\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Leaderboards\\ScoreManager.cs",
+              "ToolTip": "C:\\u\\Cardice\\gameoff2021\\Assets\\Leaderboards\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Leaderboards\\ScoreManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:40:38.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
